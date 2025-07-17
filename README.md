@@ -70,9 +70,6 @@ pip install flask pandas numpy scikit-learn imbalanced-learn jupyter
 ├── requirements.txt       # Dependencies (should be created)
 ```
 
-## Contributors
-
-- Your Name (Replace with actual names if needed)
 
 ## License
 
